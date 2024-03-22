@@ -1,0 +1,188 @@
+{
+	"class_1": [
+		{
+			"ID": 1,
+			"Name": "Alice",
+			"Scores": "A+",
+			"Percentage": 88.4
+		},
+		{
+			"ID": 2,
+			"Name": "Bob",
+			"Scores": "A",
+			"Percentage": 80.8
+		},
+		{
+			"ID": 3,
+			"Name": "Charlie",
+			"Scores": "B",
+			"Percentage": 90
+		},
+		{
+			"ID": 4,
+			"Name": "David",
+			"Scores": "A",
+			"Percentage": 76.4
+		},
+		{
+			"ID": 5,
+			"Name": "Eve",
+			"Scores": "C",
+			"Percentage": 86.2
+		},
+		{
+			"ID": 6,
+			"Name": "Frank",
+			"Scores": "D",
+			"Percentage": 81.2
+		},
+		{
+			"ID": 7,
+			"Name": "Grace",
+			"Scores": "B",
+			"Percentage": 90
+		},
+		{
+			"ID": 8,
+			"Name": "Henry",
+			"Scores": "A+",
+			"Percentage": 84.2
+		},
+		{
+			"ID": 9,
+			"Name": "Ivy",
+			"Scores": "A+",
+			"Percentage": 87.6
+		},
+		{
+			"ID": 10,
+			"Name": "Jack",
+			"Scores": "A+",
+			"Percentage": 85.8
+		}
+	],
+	"class_2": [
+		{
+			"ID": 1,
+			"Name": "Liam",
+			"Scores": "A+",
+			"Percentage": 88.4
+		},
+		{
+			"ID": 2,
+			"Name": "Olivia",
+			"Scores": "A+",
+			"Percentage": 80.8
+		},
+		{
+			"ID": 3,
+			"Name": "Noah",
+			"Scores": "A+",
+			"Percentage": 90
+		},
+		{
+			"ID": 4,
+			"Name": "Emma",
+			"Scores": "A+",
+			"Percentage": 76.4
+		},
+		{
+			"ID": 5,
+			"Name": "William",
+			"Scores": "A+",
+			"Percentage": 86.2
+		},
+		{
+			"ID": 6,
+			"Name": "Ava",
+			"Scores": "A+",
+			"Percentage": 81.2
+		},
+		{
+			"ID": 7,
+			"Name": "James",
+			"Scores": "A+",
+			"Percentage": 90
+		},
+		{
+			"ID": 8,
+			"Name": "Isabella",
+			"Scores": "A+",
+			"Percentage": 84.2
+		},
+		{
+			"ID": 9,
+			"Name": "Lucas",
+			"Scores": "A+",
+			"Percentage": 87.6
+		},
+		{
+			"ID": 10,
+			"Name": "Sophia",
+			"Scores": "A+",
+			"Percentage": 85.8
+		}
+	],
+	"class_3": [
+		{
+			"ID": 1,
+			"Name": "Mason",
+			"Scores": "A+",
+			"Percentage": 88.4
+		},
+		{
+			"ID": 2,
+			"Name": "Harper",
+			"Scores": "A+",
+			"Percentage": 80.8
+		},
+		{
+			"ID": 3,
+			"Name": "Elijah",
+			"Scores": "A+",
+			"Percentage": 90
+		},
+		{
+			"ID": 4,
+			"Name": "Evelyn",
+			"Scores": "A+",
+			"Percentage": 76.4
+		},
+		{
+			"ID": 5,
+			"Name": "Logan",
+			"Scores": "A+",
+			"Percentage": 86.2
+		},
+		{
+			"ID": 6,
+			"Name": "Abigail",
+			"Scores": "A+",
+			"Percentage": 81.2
+		},
+		{
+			"ID": 7,
+			"Name": "Alexander",
+			"Scores": "A+",
+			"Percentage": 90
+		},
+		{
+			"ID": 8,
+			"Name": "Amelia",
+			"Scores": "A+",
+			"Percentage": 84.2
+		},
+		{
+			"ID": 9,
+			"Name": "Benjamin",
+			"Scores": "A+",
+			"Percentage": 87.6
+		},
+		{
+			"ID": 10,
+			"Name": "Mia",
+			"Scores": "A+",
+			"Percentage": 85.8
+		}
+	]
+}
